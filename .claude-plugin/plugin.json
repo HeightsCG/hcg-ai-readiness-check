@@ -7,5 +7,6 @@
   "license": "Proprietary",
   "name": "hcg-ai-readiness-check",
   "version": "1.0.0",
-  "icon": "./.claude-plugin/icon.png"
+  "icon": "./.claude-plugin/icon.png",
+  "displayName": "HCG AI Readiness Check"
 }
