@@ -8,5 +8,12 @@
   "name": "hcg-ai-readiness-check",
   "version": "1.0.0",
   "icon": "./.claude-plugin/icon.png",
-  "displayName": "HCG AI Readiness Check"
+  "displayName": "HCG AI Readiness Check",
+  "keywords": [
+    "ai-readiness",
+    "ai-assessment",
+    "ai-adoption",
+    "small-business",
+    "ai-strategy"
+  ]
 }
