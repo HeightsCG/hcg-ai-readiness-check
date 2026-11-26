@@ -1,1 +1,11 @@
-{"author":{"name":"Heights Consulting Group"},"description":"Answer 5 questions and get a clear AI readiness result with your priority moves. From Heights Consulting Group.","homepage":"https://heightscg.com","license":"Proprietary","name":"hcg-ai-readiness-check","version":"1.0.0"}
+{
+  "author": {
+    "name": "Heights Consulting Group"
+  },
+  "description": "Answer 5 questions and get a clear AI readiness result with your priority moves. From Heights Consulting Group.",
+  "homepage": "https://heightscg.com",
+  "license": "Proprietary",
+  "name": "hcg-ai-readiness-check",
+  "version": "1.0.0",
+  "icon": "./.claude-plugin/icon.png"
+}
